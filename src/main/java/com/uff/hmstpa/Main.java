@@ -11,7 +11,7 @@ import com.uff.hmstpa.util.mediator.impl.MediatorImpl;
 
 public class Main {
     
-    //Teste alteração remota
+    //Teste alteração remota - Caio
 
     public static void main(String[] args) {
         Mediator mediator = new MediatorImpl();
