@@ -10,6 +10,9 @@ public class UpdateAppointmentListCommand implements Command {
     ScheduleSystemView receiver;
     List<Appointment> appointments;
     
+    
+   //Teste
+    
     public UpdateAppointmentListCommand(ScheduleSystemView receiver, List<Appointment> appointments) {
         this.receiver = receiver;
         this.appointments = appointments;
